@@ -15,7 +15,7 @@ Aplicación web desarrollada en PHP (PDO), MySQL y Bootstrap 5 para gestionar el
 
 ## Credenciales de prueba
 - **Correo:** `admin@tecnostock.cl`
-- **Contraseña:** `admin123`
+- **Contraseña:** `password`
 
 ## Estructura del proyecto
 - `config/db.php`: Conexión PDO segura con manejo de excepciones.
